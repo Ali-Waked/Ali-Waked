@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Ali Abu Waked
 
-### Full Stack Web Developer · Laravel · Vue.js · PHP
+### Full Stack Web Developer | Laravel • PHP • Vue.js
 
-I build **modern, scalable, and maintainable web applications** with a strong focus on clean architecture, performance, security, and user experience.
+I’m a **Full Stack Web Developer** focused on building modern, scalable, and maintainable web applications using **Laravel and Vue.js**.
 
-My primary stack is **Laravel + Vue.js**, and I enjoy turning complex requirements into practical, production-ready web solutions.
+I enjoy transforming ideas and business requirements into practical web solutions with clean architecture, responsive interfaces, secure backend systems, and well-structured APIs.
 
 <p align="left">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  <a href="https://fd8cbf43.ali-waked-portfolio.pages.dev/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-111827?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/ali-waked-002298275/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/Ali-Waked">
+    <img src="https://img.shields.io/badge/GitHub-Ali--Waked-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -23,15 +23,15 @@ My primary stack is **Laravel + Vue.js**, and I enjoy turning complex requiremen
 ## 👨‍💻 About Me
 
 * 💻 Full Stack Web Developer specializing in **Laravel & Vue.js**
-* 🧩 Experienced in building complete **frontend and backend systems**
-* 🔌 Building and integrating **RESTful APIs**
-* 🗄️ Designing and working with relational databases
-* 🔐 Implementing authentication, authorization, and role-based systems
-* 💳 Integrating payment gateways such as **Stripe & PayPal**
-* 🌍 Building **Arabic & English multilingual applications**
-* 📱 Creating responsive interfaces for desktop, tablet, and mobile
-* 🐳 Using Docker and Laravel Sail for development environments
-* 🚀 Interested in building reliable and scalable web applications
+* 🧩 Experienced in developing complete frontend and backend systems
+* 🔌 Experienced in building and integrating **RESTful APIs**
+* 🗄️ Comfortable designing database-driven applications with **MySQL**
+* 🔐 Building authentication, authorization, and role-based systems
+* 💳 Integrating payment solutions such as **Stripe and PayPal**
+* 🌍 Developing **Arabic & English multilingual applications**
+* 📱 Building responsive interfaces for different screen sizes
+* 🐳 Using **Docker & Laravel Sail** for development environments
+* 🚀 Focused on writing clean, maintainable, and scalable code
 
 ---
 
@@ -48,7 +48,7 @@ My primary stack is **Laravel + Vue.js**, and I enjoy turning complex requiremen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" height="45" alt="Vite"/>
 </p>
 
-**Vue.js · JavaScript · HTML5 · CSS3 · Tailwind CSS · Vite · Axios · Pinia · Vuex**
+`Vue.js` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `Vite` · `Axios` · `Pinia` · `Vuex`
 
 ### Backend
 
@@ -57,9 +57,9 @@ My primary stack is **Laravel + Vue.js**, and I enjoy turning complex requiremen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel"/>
 </p>
 
-**PHP · Laravel · REST APIs · Blade · Sanctum · Fortify**
+`PHP` · `Laravel` · `REST APIs` · `Blade` · `Sanctum` · `Fortify`
 
-### Database & Infrastructure
+### Database & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
@@ -69,11 +69,11 @@ My primary stack is **Laravel + Vue.js**, and I enjoy turning complex requiremen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </p>
 
-**MySQL · Redis · Docker · Laravel Sail · Git · GitHub**
+`MySQL` · `Redis` · `Docker` · `Laravel Sail` · `Git` · `GitHub`
 
 ### Integrations
 
-**Stripe · PayPal · Google Authentication · REST APIs · Email Services**
+`Stripe` · `PayPal` · `Google Authentication` · `REST APIs` · `Email Services`
 
 ---
 
@@ -83,22 +83,25 @@ My primary stack is **Laravel + Vue.js**, and I enjoy turning complex requiremen
 
 **Healthcare Ecosystem Platform**
 
-A comprehensive healthcare platform connecting patients, healthcare facilities, staff, pharmacies, and organizations.
+A comprehensive healthcare ecosystem connecting patients, healthcare facilities, staff, pharmacies, and organizations.
 
-**Built with:**
+**Tech Stack:**
 `Laravel` `Vue.js` `MySQL` `Docker` `REST API`
 
-**Highlights:**
+**Key Features:**
 
-* Healthcare facility management
 * Role-based dashboards
+* Healthcare facility management
 * Staff & department management
 * Appointment scheduling
 * Medication request workflows
 * Pharmacy management
 * Authentication & authorization
 * Multilingual support
-* Availability and scheduling management
+* Staff availability & scheduling
+
+🔗 **Repositories:**
+[Frontend](https://github.com/Ali-Waked/HES-Connect-vuejs) · [Backend](https://github.com/Ali-Waked/HES-Connet)
 
 ---
 
@@ -106,12 +109,12 @@ A comprehensive healthcare platform connecting patients, healthcare facilities, 
 
 **Full E-Commerce Platform**
 
-A complete e-commerce system with multiple dashboards and an integrated order-management workflow.
+A complete e-commerce solution with multiple dashboards, product management, order processing, and payment integrations.
 
-**Built with:**
+**Tech Stack:**
 `Laravel` `Vue.js` `MySQL` `Sanctum` `Fortify`
 
-**Highlights:**
+**Key Features:**
 
 * Admin dashboard
 * Moderator dashboard
@@ -121,8 +124,11 @@ A complete e-commerce system with multiple dashboards and an integrated order-ma
 * Order tracking
 * Blog system
 * Blog subscriptions
-* Stripe & PayPal payments
+* Stripe & PayPal
 * Cash on Delivery
+
+🔗 **Repositories:**
+[Frontend](https://github.com/Ali-Waked/organick-vuejs) · [Backend](https://github.com/Ali-Waked/organick-laravel)
 
 ---
 
@@ -130,12 +136,12 @@ A complete e-commerce system with multiple dashboards and an integrated order-ma
 
 **Product Swapping & Price Comparison Platform**
 
-A platform designed around product swapping, favorites, store comparison, and price tracking.
+A platform focused on product swapping, price comparison, favorites, and store tracking.
 
-**Built with:**
+**Tech Stack:**
 `Laravel` `Vue.js` `MySQL`
 
-**Highlights:**
+**Key Features:**
 
 * Product swapping
 * Favorites
@@ -146,18 +152,21 @@ A platform designed around product swapping, favorites, store comparison, and pr
 * Dark mode
 * User authentication
 
+🔗 **Repository:**
+[View on GitHub](https://github.com/Ali-Waked/Swaply)
+
 ---
 
 ### 🎓 Classroom Platform
 
 **Online Learning Platform**
 
-A Google Classroom-inspired educational platform supporting free and paid subscriptions.
+A Google Classroom-inspired platform supporting courses, subscriptions, payments, and multilingual content.
 
-**Built with:**
+**Tech Stack:**
 `Laravel` `Vue.js` `MySQL` `Stripe`
 
-**Highlights:**
+**Key Features:**
 
 * Course management
 * Free & paid subscriptions
@@ -172,21 +181,21 @@ A Google Classroom-inspired educational platform supporting free and paid subscr
 
 **WeTransfer-Inspired File Sharing Application**
 
-A lightweight file transfer application focused on simple file uploading and sharing.
+A file-sharing application built with Laravel and Blade, focused on simple and reliable file uploading and sharing.
 
-**Built with:**
+**Tech Stack:**
 `Laravel` `PHP` `Blade`
 
 ---
 
 ### 🛍️ E-Commerce Clothing Store
 
-A modern online clothing store with authentication, product management, payments, and an administrative dashboard.
+A modern clothing e-commerce platform with authentication, product management, payments, and an administrative dashboard.
 
-**Built with:**
+**Tech Stack:**
 `Laravel` `Vue.js` `MySQL` `PayPal`
 
-**Highlights:**
+**Key Features:**
 
 * Product catalog
 * Categories
@@ -198,62 +207,54 @@ A modern online clothing store with authentication, product management, payments
 
 ---
 
-## 🧠 What I Build
+## 💡 What I Build
 
-```text
-┌──────────────────────────────────────────────┐
-│              WEB DEVELOPMENT                 │
-├──────────────────────────────────────────────┤
-│                                              │
-│  🌐 Full Stack Web Applications              │
-│  ⚡ Vue.js Frontend Applications              │
-│  🔧 Laravel Backend Systems                   │
-│  🔌 RESTful APIs                              │
-│  🛒 E-Commerce Platforms                      │
-│  📊 Admin & Management Dashboards             │
-│  🔐 Authentication & Authorization             │
-│  👥 Role-Based Access Control                 │
-│  💳 Payment Gateway Integrations              │
-│  🌍 Multilingual Applications                 │
-│  📱 Responsive Web Interfaces                 │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+| Area           | Technologies                         |
+| -------------- | ------------------------------------ |
+| Frontend       | Vue.js, JavaScript, Tailwind CSS     |
+| Backend        | Laravel, PHP, REST APIs              |
+| Database       | MySQL, Redis                         |
+| Authentication | Sanctum, Fortify, OAuth              |
+| Payments       | Stripe, PayPal                       |
+| Development    | Docker, Laravel Sail, Git            |
+| Architecture   | MVC, RESTful APIs, Role-Based Access |
+| Localization   | Arabic & English                     |
 
 ---
 
-## 🏗️ Development Approach
+## 🏗️ Development Principles
 
-I care about more than simply making an application work.
+### Clean Architecture
 
-My development approach focuses on:
+I aim to keep applications organized, maintainable, and easy to extend.
 
-**Clean Architecture**
-Writing organized and maintainable code that can evolve with the project.
+### Security
 
-**Security**
-Implementing proper authentication, authorization, validation, and secure API communication.
+Authentication, authorization, validation, and secure API communication are considered from the beginning of a project.
 
-**Performance**
-Considering database queries, API performance, frontend efficiency, and scalable architecture.
+### Performance
 
-**User Experience**
-Building interfaces that are responsive, intuitive, and easy to use.
+I pay attention to database queries, API performance, frontend efficiency, and scalable application design.
 
-**Maintainability**
-Keeping projects structured so that new features can be added without creating unnecessary technical debt.
+### User Experience
+
+I build responsive and intuitive interfaces that work across desktop, tablet, and mobile devices.
+
+### Maintainability
+
+I focus on readable code and project structures that make future development easier.
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Waked&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="Ali Waked GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Waked&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Ali-Waked&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -274,23 +275,26 @@ I'm currently focused on improving my skills in:
 
 ---
 
-## 🤝 Let's Work Together
+## 🤝 Let's Connect
 
-I'm open to **freelance opportunities, collaborations, and interesting web development projects**.
+I'm open to **freelance opportunities, collaborations, and web development projects**.
 
-If you have an idea that needs to become a real application, feel free to reach out.
+Have an idea for a web application? Let's build it.
 
-<p align="left">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-000000?style=for-the-badge" alt="Portfolio">
+<p align="center">
+  <a href="https://fd8cbf43.ali-waked-portfolio.pages.dev/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-111827?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/ali-waked-002298275/">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Ali-Waked">
+    <img src="https://img.shields.io/badge/🐙%20GitHub-Follow-181717?style=for-the-badge" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building modern web applications, one project at a time.</i>
+  <i>Building modern web applications with Laravel & Vue.js.</i>
 </p>
