@@ -7,7 +7,7 @@ I’m a **Full Stack Web Developer** focused on building modern, scalable, and m
 I enjoy transforming ideas and business requirements into practical web solutions with clean architecture, responsive interfaces, secure backend systems, and well-structured APIs.
 
 <p align="left">
-  <a href="https://fd8cbf43.ali-waked-portfolio.pages.dev/">
+  <a href="https://ali-waked-portfolio.pages.dev/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-111827?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ali-waked-002298275/">
@@ -282,7 +282,7 @@ I'm open to **freelance opportunities, collaborations, and web development proje
 Have an idea for a web application? Let's build it.
 
 <p align="center">
-  <a href="https://fd8cbf43.ali-waked-portfolio.pages.dev/">
+  <a href="https://ali-waked-portfolio.pages.dev/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-111827?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ali-waked-002298275/">
